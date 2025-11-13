@@ -1,7 +1,6 @@
 ### hey, i’m lain 👾
 
-cs  @ ut austin - building in stealth
+cs  @ ut austin 
 
-- stack: `python`, `sql`, `c++`, `c#` etc.
-- interests: reinforcement learning, alignment
+- interests: reinforcement learning, neuroevolution, etc.
 - rarely online at [zelmus.com](https://zelmus.com)
